@@ -1,0 +1,179 @@
+Climate,Country Region,Avg. Confirmed Cases,2019 [YR2019]
+Polar,Canada,16.41333333333333,37601230.0
+Polar,Denmark,143.71,5814422.0
+Polar,Finland,9558.02,5521606.0
+Polar,Iceland,2341.62,360563.0
+Polar,Norway,12838.78,5347896.0
+Polar,Sweden,86675.19,10278887.0
+Subtropics,Afghanistan,24642.76,38041757.0
+Subtropics,Algeria,30676.45,43053054.0
+Subtropics,Argentina,429960.64,44938712.0
+Subtropics,Australia,2424.9533333333334,25365745.0
+Subtropics,Bahrain,37477.41,1641164.0
+Subtropics,Bangladesh,199447.76,163046173.0
+Subtropics,Bhutan,154.9,763094.0
+Subtropics,Chile,267963.62,18952035.0
+Subtropics,China,3267.6086956521744,1407745000.0
+Subtropics,Cyprus,2861.24,1198574.0
+Subtropics,Eswatini,2700.65,1148133.0
+Subtropics,Greece,23119.11,10721582.0
+Subtropics,Iraq,187300.81,39309789.0
+Subtropics,Israel,120356.37,9054000.0
+Subtropics,Japan,53527.46,126633000.0
+Subtropics,Jordan,40843.25,10101697.0
+Subtropics,Kuwait,60405.63,4207077.0
+Subtropics,Lebanon,32056.43,6855709.0
+Subtropics,Lesotho,784.97,2125267.0
+Subtropics,Libya,22052.59,6777453.0
+Subtropics,Malta,2666.84,504062.0
+Subtropics,Mexico,431948.44,127575529.0
+Subtropics,Morocco,91969.46,36471766.0
+Subtropics,Nepal,61570.23,28608715.0
+Subtropics,Pakistan,193423.54,216565317.0
+Subtropics,Portugal,82693.51,10286263.0
+Subtropics,Qatar,76859.14,2832071.0
+Subtropics,Saudi Arabia,187917.48,34268529.0
+Subtropics,South Africa,355930.86,58558267.0
+Subtropics,Tajikistan,5794.12,9321023.0
+Subtropics,Tunisia,22172.7,11694721.0
+Subtropics,United Kingdom,249.13,66836327.0
+Subtropics,Uruguay,2208.85,3461731.0
+Subtropics,West Bank and Gaza,25371.59,4685306.0
+Temperate,Albania,10804.48,2854191.0
+Temperate,Andorra,1979.19,77146.0
+Temperate,Armenia,42182.83,2957728.0
+Temperate,Australia,178.13,25365745.0
+Temperate,Austria,63106.98,8879920.0
+Temperate,Azerbaijan,37533.43,10024283.0
+Temperate,Belarus,59220.17,9419758.0
+Temperate,Belgium,156034.88,11488980.0
+Temperate,Bosnia and Herzegovina,23332.28,3300998.0
+Temperate,Bulgaria,32161.9,6975761.0
+Temperate,Canada,12763.718181818183,37601230.0
+Temperate,China,865.4885714285714,1407745000.0
+Temperate,Croatia,28759.34,4065253.0
+Temperate,Denmark,26706.09,5814422.0
+Temperate,Estonia,3935.87,1326855.0
+Temperate,France,294299.15,67248926.0
+Temperate,Georgia,26877.15,3720161.0
+Temperate,Germany,332167.99,83092962.0
+Temperate,Hungary,45104.69,9771141.0
+Temperate,Ireland,30332.72,4934340.0
+Temperate,Italy,438552.92,59729081.0
+Temperate,Kazakhstan,74520.33,18513673.0
+Temperate,Kosovo,11330.55,1788878.0
+Temperate,Latvia,4401.63,1913822.0
+Temperate,Liechtenstein,315.32,38020.0
+Temperate,Lithuania,14066.95,2794137.0
+Temperate,Luxembourg,9938.71,620001.0
+Temperate,Moldova,35606.48,2664974.0
+Temperate,Monaco,198.43,38967.0
+Temperate,Mongolia,262.58,3225166.0
+Temperate,Montenegro,8783.7,622028.0
+Temperate,Netherlands,148575.53,17344874.0
+Temperate,New Zealand,1366.38,4979200.0
+Temperate,North Macedonia,16872.83,2076694.0
+Temperate,Poland,202268.44,37965475.0
+Temperate,Romania,121234.36,19371648.0
+Temperate,San Marino,717.36,33864.0
+Temperate,Serbia,46102.28,6945235.0
+Temperate,Slovenia,16280.4,2088385.0
+Temperate,Spain,540632.31,47134837.0
+Temperate,Switzerland,84034.83,8575280.0
+Temperate,Ukraine,193937.68,44386203.0
+Temperate,United Kingdom,83726.90333333334,66836327.0
+Temperate,Uzbekistan,28069.1,33580350.0
+Tropical,Angola,3893.94,31825299.0
+Tropical,Antigua and Barbuda,66.38,97115.0
+Tropical,Australia,29.33,25365745.0
+Tropical,Barbados,131.1,287021.0
+Tropical,Belize,1666.37,390351.0
+Tropical,Benin,1339.52,11801151.0
+Tropical,Bolivia,65589.84,11513102.0
+Tropical,Botswana,2707.11,2303703.0
+Tropical,Brazil,2586516.25,211049519.0
+Tropical,Burkina Faso,1409.44,20321383.0
+Tropical,Burundi,286.41,11530577.0
+Tropical,Cabo Verde,3539.33,549936.0
+Tropical,Cambodia,183.75,16486542.0
+Tropical,Cameroon,12266.5,25876387.0
+Tropical,Canada,5.495,37601230.0
+Tropical,Central African Republic,2767.97,4745179.0
+Tropical,Chad,805.52,15946882.0
+Tropical,China,1193.9175,1407745000.0
+Tropical,Colombia,450268.51,50339443.0
+Tropical,Comoros,282.01,850891.0
+Tropical,Costa Rica,42056.1,5047561.0
+Tropical,Cote d'Ivoire,10746.71,25716554.0
+Tropical,Cuba,3481.27,11333484.0
+Tropical,Djibouti,3482.12,973557.0
+Tropical,Dominica,26.71,71808.0
+Tropical,Dominican Republic,61352.83,10738957.0
+Tropical,Ecuador,81871.28,17373657.0
+Tropical,El Salvador,15686.79,6453550.0
+Tropical,Equatorial Guinea,2724.42,1355982.0
+Tropical,Ethiopia,37196.18,112078727.0
+Tropical,Fiji,22.17,889955.0
+Tropical,France,1710.0099999999998,67248926.0
+Tropical,Gabon,4958.58,2172578.0
+Tropical,Ghana,25130.31,30417858.0
+Tropical,Grenada,24.08,112002.0
+Tropical,Guatemala,47852.41,16604026.0
+Tropical,Guinea,6216.02,12771246.0
+Tropical,Guinea-Bissau,1411.54,1920917.0
+Tropical,Guyana,1590.46,782775.0
+Tropical,Haiti,4915.92,11263079.0
+Tropical,Honduras,41774.16,9746115.0
+Tropical,India,3142841.27,1366417756.0
+Tropical,Indonesia,175576.01,270625567.0
+Tropical,Jamaica,3333.51,2948277.0
+Tropical,Kenya,25755.06,52573967.0
+Tropical,Kiribati,0.0,117608.0
+Tropical,Liberia,797.71,4937374.0
+Tropical,Madagascar,7900.32,26969306.0
+Tropical,Malawi,2848.06,18628749.0
+Tropical,Malaysia,18278.72,31949789.0
+Tropical,Maldives,5156.4,530957.0
+Tropical,Mali,2145.05,19658023.0
+Tropical,Marshall Islands,0.6,58791.0
+Tropical,Mauritania,4363.63,4525698.0
+Tropical,Mauritius,304.97,1265711.0
+Tropical,Mozambique,4728.81,30366043.0
+Tropical,Namibia,5251.85,2494524.0
+Tropical,Netherlands,654.6775,17344874.0
+Tropical,New Zealand,0.0,4979200.0
+Tropical,Nicaragua,2248.8,6545503.0
+Tropical,Niger,960.41,23310719.0
+Tropical,Nigeria,32556.84,200963603.0
+Tropical,Oman,55228.9,4974992.0
+Tropical,Palau,0.0,18001.0
+Tropical,Panama,66003.67,4246440.0
+Tropical,Papua New Guinea,245.0,8776119.0
+Tropical,Paraguay,23740.55,7044639.0
+Tropical,Peru,419219.78,32510462.0
+Tropical,Philippines,155164.73,108116622.0
+Tropical,Rwanda,2422.51,12626938.0
+Tropical,Samoa,0.23,197093.0
+Tropical,Sao Tome and Principe,562.58,215048.0
+Tropical,Senegal,8126.48,16296362.0
+Tropical,Seychelles,80.66,97625.0
+Tropical,Sierra Leone,1297.34,7813207.0
+Tropical,Singapore,36227.95,5703569.0
+Tropical,Solomon Islands,3.11,669821.0
+Tropical,Somalia,2361.24,15442906.0
+Tropical,South Sudan,1629.51,11062114.0
+Tropical,Sri Lanka,6185.74,21803000.0
+Tropical,Sudan,8653.93,42813237.0
+Tropical,Suriname,2192.37,581363.0
+Tropical,Tanzania,374.61,58005461.0
+Tropical,Thailand,2810.71,69625581.0
+Tropical,Timor-Leste,20.38,1293120.0
+Tropical,Togo,1106.46,8082359.0
+Tropical,Trinidad and Tobago,2017.63,1394969.0
+Tropical,Uganda,5711.48,44269587.0
+Tropical,United Arab Emirates,64502.96,9770526.0
+Tropical,United Kingdom,81.16666666666666,66836327.0
+Tropical,Vanuatu,0.15,299882.0
+Tropical,Vietnam,635.76,96462108.0
+Tropical,Zambia,7054.73,17861034.0
+Tropical,Zimbabwe,3873.28,14645473.0
