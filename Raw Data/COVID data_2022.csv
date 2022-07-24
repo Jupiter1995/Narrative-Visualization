@@ -1,0 +1,277 @@
+Climate,Country Region,Country/Region,Province/State,Avg. Confirmed Cases
+Tropical,Zimbabwe,Zimbabwe,,240295.55
+Tropical,Zambia,Zambia,,311495.69
+Tropical,Yemen,Yemen,,11500.31
+Subtropics,West Bank and Gaza,West Bank and Gaza,,613436.53
+Tropical,Vietnam,Vietnam,,6794339.06
+Tropical,Venezuela,Venezuela,,506381.61
+Tropical,Vanuatu,Vanuatu,,3483.05
+Temperate,Uzbekistan,Uzbekistan,,231317.95
+Subtropics,US,US,,77788050.71
+Subtropics,Uruguay,Uruguay,,802247.22
+Tropical,United Kingdom,United Kingdom,Turks and Caicos Islands,5720.91
+Tropical,United Kingdom,United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4.00
+Tropical,United Kingdom,United Kingdom,Montserrat,321.40
+Tropical,United Kingdom,United Kingdom,Cayman Islands,19308.62
+Tropical,United Kingdom,United Kingdom,British Virgin Islands,6025.43
+Tropical,United Kingdom,United Kingdom,Anguilla,2619.07
+Subtropics,United Kingdom,United Kingdom,Gibraltar,15606.59
+Subtropics,United Kingdom,United Kingdom,Bermuda,12026.67
+Temperate,United Kingdom,United Kingdom,Jersey,40757.00
+Temperate,United Kingdom,United Kingdom,Isle of Man,26486.62
+Temperate,United Kingdom,United Kingdom,Guernsey,18247.04
+Temperate,United Kingdom,United Kingdom,Falkland Islands (Malvinas),389.12
+Temperate,United Kingdom,United Kingdom,Channel Islands,0.00
+Temperate,United Kingdom,United Kingdom,,19639400.79
+Tropical,United Arab Emirates,United Arab Emirates,,873831.76
+Temperate,Ukraine,Ukraine,,4784164.58
+Tropical,Uganda,Uganda,,162292.67
+Subtropics,Turkey,Turkey,,13713740.17
+Subtropics,Tunisia,Tunisia,,977552.12
+Tropical,Trinidad and Tobago,Trinidad and Tobago,,132731.62
+Tropical,Togo,Togo,,36525.63
+Tropical,Timor-Leste,Timor-Leste,,22057.80
+Tropical,Thailand,Thailand,,3407270.24
+Tropical,Tanzania,Tanzania,,33575.91
+Subtropics,Tajikistan,Tajikistan,,17733.44
+Subtropics,Taiwan*,Taiwan*,,348482.47
+Subtropics,Syria,Syria,,54265.72
+Temperate,Switzerland,Switzerland,,2988157.34
+Polar,Sweden,Sweden,,2308040.69
+Tropical,Suriname,Suriname,,76061.03
+Tropical,Sudan,Sudan,,59656.34
+Tropical,Sri Lanka,Sri Lanka,,643395.14
+Temperate,Spain,Spain,,10889159.21
+Tropical,South Sudan,South Sudan,,17085.32
+Subtropics,South Africa,South Africa,,3722258.99
+Tropical,Somalia,Somalia,,26040.28
+Tropical,Solomon Islands,Solomon Islands,,9710.66
+Temperate,Slovenia,Slovenia,,876732.30
+Temperate,Slovakia,Slovakia,,2159252.67
+Tropical,Singapore,Singapore,,868724.88
+Tropical,Sierra Leone,Sierra Leone,,7635.37
+Tropical,Seychelles,Seychelles,,39229.14
+Temperate,Serbia,Serbia,,1858824.90
+Tropical,Senegal,Senegal,,84998.05
+Subtropics,Saudi Arabia,Saudi Arabia,,723929.18
+Tropical,Sao Tome and Principe,Sao Tome and Principe,,5811.63
+Temperate,San Marino,San Marino,,14549.54
+Tropical,Samoa,Samoa,,4175.37
+Tropical,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,,8109.12
+Tropical,Saint Lucia,Saint Lucia,,22196.92
+Tropical,Saint Kitts and Nevis,Saint Kitts and Nevis,,5391.89
+Tropical,Rwanda,Rwanda,,128557.77
+Polar,Russia,Russia,,15718123.61
+Temperate,Romania,Romania,,2634882.12
+Subtropics,Qatar,Qatar,,348585.47
+Subtropics,Portugal,Portugal,,3463492.04
+Temperate,Poland,Poland,,5550340.54
+Tropical,Philippines,Philippines,,3579165.39
+Tropical,Peru,Peru,,3364587.88
+Tropical,Paraguay,Paraguay,,616382.91
+Tropical,Papua New Guinea,Papua New Guinea,,41257.98
+Tropical,Panama,Panama,,741916.80
+Tropical,Palau,Palau,,3411.54
+Subtropics,Pakistan,Pakistan,,1483503.61
+Tropical,Oman,Oman,,370421.99
+Polar,Norway,Norway,,1177232.11
+Temperate,North Macedonia,North Macedonia,,291991.60
+Tropical,Nigeria,Nigeria,,254181.76
+Tropical,Niger,Niger,,8739.21
+Tropical,Nicaragua,Nicaragua,,14106.94
+Tropical,New Zealand,New Zealand,Cook Islands,2237.68
+Temperate,New Zealand,New Zealand,,521963.08
+Tropical,Netherlands,Netherlands,Sint Maarten,9462.94
+Tropical,Netherlands,Netherlands,Curacao,39157.49
+Tropical,Netherlands,Netherlands,"Bonaire, Sint Eustatius and Saba",8114.22
+Tropical,Netherlands,Netherlands,Aruba,33640.13
+Temperate,Netherlands,Netherlands,,6644181.67
+Subtropics,Nepal,Nepal,,957227.63
+Tropical,Namibia,Namibia,,158089.12
+Tropical,Mozambique,Mozambique,,223181.27
+Subtropics,Morocco,Morocco,,1140533.61
+Temperate,Montenegro,Montenegro,,226512.88
+Temperate,Mongolia,Mongolia,,880200.27
+Temperate,Monaco,Monaco,,9961.94
+Temperate,Moldova,Moldova,,486626.96
+Tropical,Micronesia,Micronesia,,5.22
+Subtropics,Mexico,Mexico,,5379136.58
+Tropical,Mauritius,Mauritius,,171882.11
+Tropical,Mauritania,Mauritania,,57565.48
+Tropical,Marshall Islands,Marshall Islands,,10.30
+Subtropics,Malta,Malta,,78709.52
+Tropical,Mali,Mali,,29974.68
+Tropical,Maldives,Maldives,,161186.94
+Tropical,Malaysia,Malaysia,,3783133.20
+Tropical,Malawi,Malawi,,84815.50
+Tropical,Madagascar,Madagascar,,62047.73
+Temperate,Luxembourg,Luxembourg,,197898.96
+Temperate,Lithuania,Lithuania,,905558.55
+Temperate,Liechtenstein,Liechtenstein,,13628.59
+Subtropics,Libya,Libya,,476731.86
+Tropical,Liberia,Liberia,,7327.22
+Subtropics,Lesotho,Lesotho,,32614.07
+Subtropics,Lebanon,Lebanon,,1027230.96
+Temperate,Latvia,Latvia,,658885.25
+Tropical,Laos,Laos,,167734.77
+Temperate,Kyrgyzstan,Kyrgyzstan,,198761.04
+Subtropics,Kuwait,Kuwait,,593628.23
+Temperate,Kosovo,Kosovo,,216251.10
+Subtropics,"Korea, South","Korea, South",,9546988.07
+Tropical,Kiribati,Kiribati,,2355.64
+Tropical,Kenya,Kenya,,321813.50
+Temperate,Kazakhstan,Kazakhstan,,1347176.43
+Subtropics,Jordan,Jordan,,1540767.15
+Subtropics,Japan,Japan,,5738685.58
+Tropical,Jamaica,Jamaica,,126434.75
+Temperate,Italy,Italy,,13675515.76
+Subtropics,Israel,Israel,,3488776.04
+Temperate,Ireland,Ireland,,1355852.33
+Subtropics,Iraq,Iraq,,2276564.89
+Subtropics,Iran,Iran,,6938100.99
+Tropical,Indonesia,Indonesia,,5479388.55
+Tropical,India,India,,41947820.19
+Polar,Iceland,Iceland,,138940.29
+Temperate,Hungary,Hungary,,1746267.74
+Tropical,Honduras,Honduras,,410635.25
+Tropical,Haiti,Haiti,,29913.38
+Tropical,Guyana,Guyana,,60876.27
+Tropical,Guinea-Bissau,Guinea-Bissau,,7898.70
+Tropical,Guinea,Guinea,,36205.50
+Tropical,Guatemala,Guatemala,,784522.25
+Tropical,Grenada,Grenada,,13738.88
+Subtropics,Greece,Greece,,2689512.37
+Tropical,Ghana,Ghana,,158917.95
+Temperate,Germany,Germany,,18132091.50
+Temperate,Georgia,Georgia,,1491945.91
+Tropical,Gambia,Gambia,,11816.89
+Tropical,Gabon,Gabon,,47045.38
+Tropical,France,France,Wallis and Futuna,454.00
+Tropical,France,France,St Martin,9594.94
+Tropical,France,France,Saint Barthelemy,3889.74
+Tropical,France,France,Reunion,299751.71
+Tropical,France,France,New Caledonia,47910.86
+Tropical,France,France,Mayotte,35937.96
+Tropical,France,France,Martinique,124263.66
+Tropical,France,France,Guadeloupe,124155.43
+Tropical,France,France,French Polynesia,64607.34
+Tropical,France,France,French Guiana,76556.31
+Temperate,France,France,Saint Pierre and Miquelon,1720.02
+Temperate,France,France,,23077749.57
+Polar,Finland,Finland,,774794.99
+Tropical,Fiji,Fiji,,63314.68
+Tropical,Ethiopia,Ethiopia,,466629.49
+Subtropics,Eswatini,Eswatini,,69763.70
+Temperate,Estonia,Estonia,,481839.79
+Tropical,Equatorial Guinea,Equatorial Guinea,,15744.62
+Tropical,El Salvador,El Salvador,,150892.53
+Subtropics,Egypt,Egypt,,479289.84
+Tropical,Ecuador,Ecuador,,806277.03
+Tropical,Dominican Republic,Dominican Republic,,561406.32
+Tropical,Dominica,Dominica,,11206.12
+Tropical,Djibouti,Djibouti,,15429.97
+Temperate,Denmark,Denmark,,2581705.47
+Polar,Denmark,Denmark,Greenland,10946.47
+Polar,Denmark,Denmark,Faroe Islands,29097.55
+Temperate,Czechia,Czechia,,3534698.66
+Subtropics,Cyprus,Cyprus,,374348.21
+Tropical,Cuba,Cuba,,1070937.24
+Temperate,Croatia,Croatia,,1037742.91
+Tropical,Cote d'Ivoire,Cote d'Ivoire,,81039.58
+Tropical,Costa Rica,Costa Rica,,792870.19
+Tropical,Congo (Kinshasa),Congo (Kinshasa),,85915.75
+Tropical,Congo (Brazzaville),Congo (Brazzaville),,23759.91
+Tropical,Comoros,Comoros,,7981.98
+Tropical,Colombia,Colombia,,5968575.89
+Tropical,China,China,Macau,81.05
+Tropical,China,China,Hong Kong,715551.47
+Tropical,China,China,Hainan,229.60
+Tropical,China,China,Guangdong,5679.86
+Subtropics,China,China,Zhejiang,2611.34
+Subtropics,China,China,Yunnan,2009.87
+Subtropics,China,China,Tibet,1.00
+Subtropics,China,China,Tianjin,1449.07
+Subtropics,China,China,Sichuan,1740.40
+Subtropics,China,China,Shanxi,332.19
+Subtropics,China,China,Shanghai,23164.20
+Subtropics,China,China,Shandong,1975.16
+Subtropics,China,China,Shaanxi,3052.27
+Subtropics,China,China,Qinghai,62.98
+Subtropics,China,China,Ningxia,122.00
+Subtropics,China,China,Jiangxi,1104.79
+Subtropics,China,China,Jiangsu,1937.79
+Subtropics,China,China,Hunan,1300.11
+Subtropics,China,China,Hubei,68367.65
+Subtropics,China,China,Henan,2757.59
+Subtropics,China,China,Hebei,1748.36
+Subtropics,China,China,Guizhou,171.10
+Subtropics,China,China,Guangxi,1248.93
+Subtropics,China,China,Gansu,538.31
+Subtropics,China,China,Fujian,2290.94
+Subtropics,China,China,Chongqing,660.80
+Subtropics,China,China,Anhui,1034.58
+Temperate,China,China,Xinjiang,997.34
+Temperate,China,China,Unknown,242511.60
+Temperate,China,China,Liaoning,1280.82
+Temperate,China,China,Jilin,19719.73
+Temperate,China,China,Inner Mongolia,1543.01
+Temperate,China,China,Heilongjiang,2431.35
+Temperate,China,China,Beijing,1909.84
+Subtropics,Chile,Chile,,3054138.20
+Tropical,Chad,Chad,,7199.89
+Tropical,Central African Republic,Central African Republic,,14231.02
+Tropical,Canada,Canada,Grand Princess,13.00
+Tropical,Canada,Canada,Diamond Princess,0.00
+Temperate,Canada,Canada,Saskatchewan,125977.13
+Temperate,Canada,Canada,Repatriated Travellers,13.00
+Temperate,Canada,Canada,Quebec,944430.55
+Temperate,Canada,Canada,Prince Edward Island,21677.46
+Temperate,Canada,Canada,Ontario,1153304.02
+Temperate,Canada,Canada,Nova Scotia,59435.43
+Temperate,Canada,Canada,Newfoundland and Labrador,31204.96
+Temperate,Canada,Canada,New Brunswick,45159.45
+Temperate,Canada,Canada,Manitoba,130163.57
+Temperate,Canada,Canada,British Columbia,344380.61
+Temperate,Canada,Canada,Alberta,525847.36
+Polar,Canada,Canada,Yukon,3616.07
+Polar,Canada,Canada,Nunavut,2804.15
+Polar,Canada,Canada,Northwest Territories,9190.79
+Tropical,Cameroon,Cameroon,,117824.86
+Tropical,Cambodia,Cambodia,,130808.81
+Tropical,Cabo Verde,Cabo Verde,,55264.81
+Tropical,Burundi,Burundi,,38566.70
+Tropical,Burma,Burma,,586027.68
+Tropical,Burkina Faso,Burkina Faso,,20624.52
+Temperate,Bulgaria,Bulgaria,,1067397.63
+Tropical,Brunei,Brunei,,93025.71
+Tropical,Brazil,Brazil,,28446414.45
+Tropical,Botswana,Botswana,,277453.18
+Temperate,Bosnia and Herzegovina,Bosnia and Herzegovina,,362427.29
+Tropical,Bolivia,Bolivia,,868506.84
+Subtropics,Bhutan,Bhutan,,29961.88
+Tropical,Benin,Benin,,26649.64
+Tropical,Belize,Belize,,54255.09
+Temperate,Belgium,Belgium,,3582359.26
+Temperate,Belarus,Belarus,,897199.15
+Tropical,Barbados,Barbados,,58624.79
+Subtropics,Bangladesh,Bangladesh,,1885022.16
+Subtropics,Bahrain,Bahrain,,497537.58
+Subtropics,Bahamas,Bahamas,,32833.17
+Temperate,Azerbaijan,Azerbaijan,,751771.88
+Temperate,Austria,Austria,,3150845.53
+Tropical,Australia,Australia,Northern Territory,43959.20
+Subtropics,Australia,Australia,Western Australia,229007.85
+Subtropics,Australia,Australia,Victoria,1229788.58
+Subtropics,Australia,Australia,South Australia,261102.61
+Subtropics,Australia,Australia,Queensland,710559.14
+Subtropics,Australia,Australia,New South Wales,1678143.06
+Subtropics,Australia,Australia,Australian Capital Territory,72804.83
+Temperate,Australia,Australia,Tasmania,84091.32
+Temperate,Armenia,Armenia,,405417.24
+Subtropics,Argentina,Argentina,,8633763.06
+Tropical,Antigua and Barbuda,Antigua and Barbuda,,7171.79
+Tropical,Angola,Angola,,97842.70
+Temperate,Andorra,Andorra,,38170.11
+Subtropics,Algeria,Algeria,,258130.70
+Temperate,Albania,Albania,,265263.37
+Subtropics,Afghanistan,Afghanistan,,173180.07
