@@ -1,4 +1,4 @@
-﻿Series Name,Country Name,Country Code,2019 [YR2019],2020 [YR2020],2021 [YR2021]
+Series Name,Country Name,Country Code,2019 [YR2019],2020 [YR2020],2021 [YR2021]
 "Population, total",Afghanistan,AFG,38041757,38928341,39835428
 "Population, total",Albania,ALB,2854191,2837849,2811666
 "Population, total",Algeria,DZA,43053054,43851043,44616626
@@ -265,8 +265,3 @@
 "Population, total",Sub-Saharan Africa (IDA & IBRD countries),TSS,1106957870,1136046775,1165563987
 "Population, total",Upper middle income,UMC,2480707519,2492597173,2501427939
 "Population, total",World,WLD,7683806444,7763932702,7836630792
-,,,,,
-,,,,,
-,,,,,
-Data from database: World Development Indicators,,,,,
-Last Updated: 07/20/2022,,,,,
