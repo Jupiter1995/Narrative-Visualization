@@ -1,7 +1,11 @@
 ## Messaging
-*What is the message you are trying to communicate with the narrative visualization?*
+**What is the message you are trying to communicate with the narrative visualization?**
 
-Narrative Structure. Which structure was your narrative visualization designed to follow (martini glass, interactive slide show or drop-down story)? How does your narrative visualization follow that structure? (All of these structures can include the opportunity to "drill-down" and explore. The difference is where that opportunity happens in the structure.)
+The main goal of this narrative visualization is for presenting the changes in COVID cases by year and also the relationship between the confirmed cases and the population as well as the geolocations. Viewer could use the dropdown box to select a specific year and look into the details, or he/she could compare the trends in different years but looking at the overall trends of each figure in each scene.
+
+## Narrative Structure. 
+**Which structure was your narrative visualization designed to follow (martini glass, interactive slide show or drop-down story)? How does your narrative visualization follow that structure?** *(All of these structures can include the opportunity to "drill-down" and explore. The difference is where that opportunity happens in the structure.)*
+
 
 Visual Structure. What visual structure is used for each scene? How does it ensure the viewer can understand the data and navigate the scene? How does it highlight to urge the viewer to focus on the important parts of the data in each scene? How does it help the viewer transition to other scenes, to understand how the data connects to the data in other scenes?
 

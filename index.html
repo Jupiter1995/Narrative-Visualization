@@ -6,24 +6,26 @@
     </title>
     <head>
         <h1>
-            Visualization
+            COVID in Five Permanent Members Of The Security Conuncil in UN
         </h1>
     </head>
-<script src='https://d3js.org/d3.v5.min.js'></script>
+<script src='https://d3js.org/d3.v4.min.js'></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-annotation/2.5.1/d3-annotation.min.js"></script>
+
+<!-- Add 2 buttons -->
+<button onclick="update(data2020)">2020</button>
+<!-- <button onclick="change(data2020)">Log Transform 2020</button> -->
+
+<button onclick="update(data2021)">2021</button>
+<!-- <button onclick="change(data2021)">Log Transform 2021</button> -->
+
+<button onclick="update(data2022)">2022</button>
+<!-- <button onclick="change(data2020)">Log Transform 2022</button> -->
+
+
 <style> circle {fill: lightblue; stroke: black;} </style>
-<body onload='init()'>
-    <button onclick="next()"> next </button> 
-    <!-- next function needs to be defined under script-->
-    <button onclick="next()"> 2 </button>
-    <button onclick="next()"> 3 </button>
 
-<svg width=300 height=300>
-</svg>
-    <script src="visual plot.js"></script>
-    <script>
-        function next() {
+    <div id="covidviz"></div>
 
-        };
-    </script>
-</body>
+    <script src="BarChart.js"> </script>
 </html>

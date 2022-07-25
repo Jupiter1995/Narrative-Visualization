@@ -1,179 +1,167 @@
-Climate,Country Region,2020 [YR2020]
-Polar,Canada,38037204.0
-Polar,Denmark,5831404.0
-Polar,Finland,5529543.0
-Polar,Iceland,366463.0
-Polar,Norway,5379475.0
-Polar,Sweden,10353442.0
-Subtropics,Afghanistan,38928341.0
-Subtropics,Algeria,43851043.0
-Subtropics,Argentina,45376763.0
-Subtropics,Australia,25693267.0
-Subtropics,Bahrain,1701583.0
-Subtropics,Bangladesh,164689383.0
-Subtropics,Bhutan,771612.0
-Subtropics,Chile,19116209.0
-Subtropics,China,1411100000.0
-Subtropics,Cyprus,1207361.0
-Subtropics,Eswatini,1160164.0
-Subtropics,Greece,10700556.0
-Subtropics,Iraq,40222503.0
-Subtropics,Israel,9215100.0
-Subtropics,Japan,126261000.0
-Subtropics,Jordan,10203140.0
-Subtropics,Kuwait,4270563.0
-Subtropics,Lebanon,6825442.0
-Subtropics,Lesotho,2142252.0
-Subtropics,Libya,6871287.0
-Subtropics,Malta,515332.0
-Subtropics,Mexico,128932753.0
-Subtropics,Morocco,36910558.0
-Subtropics,Nepal,29136808.0
-Subtropics,Pakistan,220892331.0
-Subtropics,Portugal,10297081.0
-Subtropics,Qatar,2881060.0
-Subtropics,Saudi Arabia,34813867.0
-Subtropics,South Africa,59308690.0
-Subtropics,Tajikistan,9537642.0
-Subtropics,Tunisia,11818618.0
-Subtropics,United Kingdom,67081000.0
-Subtropics,Uruguay,3473727.0
-Subtropics,West Bank and Gaza,4803269.0
-Temperate,Albania,2837849.0
-Temperate,Andorra,77265.0
-Temperate,Armenia,2963234.0
-Temperate,Australia,25693267.0
-Temperate,Austria,8916864.0
-Temperate,Azerbaijan,10093121.0
-Temperate,Belarus,9379952.0
-Temperate,Belgium,11544241.0
-Temperate,Bosnia and Herzegovina,3280815.0
-Temperate,Bulgaria,6934015.0
-Temperate,Canada,38037204.0
-Temperate,China,1411100000.0
-Temperate,Croatia,4047680.0
-Temperate,Denmark,5831404.0
-Temperate,Estonia,1329479.0
-Temperate,France,67379908.0
-Temperate,Georgia,3722716.0
-Temperate,Germany,83160871.0
-Temperate,Hungary,9750149.0
-Temperate,Ireland,4985674.0
-Temperate,Italy,59449527.0
-Temperate,Kazakhstan,18755666.0
-Temperate,Kosovo,1790133.0
-Temperate,Latvia,1900449.0
-Temperate,Liechtenstein,38137.0
-Temperate,Lithuania,2794885.0
-Temperate,Luxembourg,630419.0
-Temperate,Moldova,2620495.0
-Temperate,Monaco,39244.0
-Temperate,Mongolia,3278292.0
-Temperate,Montenegro,621306.0
-Temperate,Netherlands,17441500.0
-Temperate,New Zealand,5090200.0
-Temperate,North Macedonia,2072531.0
-Temperate,Poland,37899070.0
-Temperate,Romania,19257520.0
-Temperate,San Marino,33938.0
-Temperate,Serbia,6899126.0
-Temperate,Slovenia,2102419.0
-Temperate,Spain,47363419.0
-Temperate,Switzerland,8636561.0
-Temperate,Ukraine,44132049.0
-Temperate,United Kingdom,67081000.0
-Temperate,Uzbekistan,34232050.0
-Tropical,Angola,32866268.0
-Tropical,Antigua and Barbuda,97928.0
-Tropical,Australia,25693267.0
-Tropical,Barbados,287371.0
-Tropical,Belize,397621.0
-Tropical,Benin,12123198.0
-Tropical,Bolivia,11673029.0
-Tropical,Botswana,2351625.0
-Tropical,Brazil,212559409.0
-Tropical,Burkina Faso,20903278.0
-Tropical,Burundi,11890781.0
-Tropical,Cabo Verde,555988.0
-Tropical,Cambodia,16718971.0
-Tropical,Cameroon,26545864.0
-Tropical,Canada,38037204.0
-Tropical,Central African Republic,4829764.0
-Tropical,Chad,16425859.0
-Tropical,China,1411100000.0
-Tropical,Colombia,50882884.0
-Tropical,Comoros,869595.0
-Tropical,Costa Rica,5094114.0
-Tropical,Cote d'Ivoire,26378275.0
-Tropical,Cuba,11326616.0
-Tropical,Djibouti,988002.0
-Tropical,Dominica,71991.0
-Tropical,Dominican Republic,10847904.0
-Tropical,Ecuador,17643060.0
-Tropical,El Salvador,6486201.0
-Tropical,Equatorial Guinea,1402985.0
-Tropical,Ethiopia,114963583.0
-Tropical,Fiji,896444.0
-Tropical,France,67379908.0
-Tropical,Gabon,2225728.0
-Tropical,Ghana,31072945.0
-Tropical,Grenada,112519.0
-Tropical,Guatemala,16858333.0
-Tropical,Guinea,13132792.0
-Tropical,Guinea-Bissau,1967998.0
-Tropical,Guyana,786559.0
-Tropical,Haiti,11402533.0
-Tropical,Honduras,9904608.0
-Tropical,India,1380004385.0
-Tropical,Indonesia,273523621.0
-Tropical,Jamaica,2961161.0
-Tropical,Kenya,53771300.0
-Tropical,Kiribati,119446.0
-Tropical,Liberia,5057677.0
-Tropical,Madagascar,27691019.0
-Tropical,Malawi,19129955.0
-Tropical,Malaysia,32365998.0
-Tropical,Maldives,540542.0
-Tropical,Mali,20250834.0
-Tropical,Marshall Islands,59194.0
-Tropical,Mauritania,4649660.0
-Tropical,Mauritius,1265740.0
-Tropical,Mozambique,31255435.0
-Tropical,Namibia,2540916.0
-Tropical,Netherlands,17441500.0
-Tropical,New Zealand,5090200.0
-Tropical,Nicaragua,6624554.0
-Tropical,Niger,24206636.0
-Tropical,Nigeria,206139587.0
-Tropical,Oman,5106622.0
-Tropical,Palau,18092.0
-Tropical,Panama,4314768.0
-Tropical,Papua New Guinea,8947027.0
-Tropical,Paraguay,7132530.0
-Tropical,Peru,32971846.0
-Tropical,Philippines,109581085.0
-Tropical,Rwanda,12952209.0
-Tropical,Samoa,198410.0
-Tropical,Sao Tome and Principe,219161.0
-Tropical,Senegal,16743930.0
-Tropical,Seychelles,98462.0
-Tropical,Sierra Leone,7976985.0
-Tropical,Singapore,5685807.0
-Tropical,Solomon Islands,686878.0
-Tropical,Somalia,15893219.0
-Tropical,South Sudan,11193729.0
-Tropical,Sri Lanka,21919000.0
-Tropical,Sudan,43849269.0
-Tropical,Suriname,586634.0
-Tropical,Tanzania,59734213.0
-Tropical,Thailand,69799978.0
-Tropical,Timor-Leste,1318442.0
-Tropical,Togo,8278737.0
-Tropical,Trinidad and Tobago,1399491.0
-Tropical,Uganda,45741000.0
-Tropical,United Arab Emirates,9890400.0
-Tropical,United Kingdom,67081000.0
-Tropical,Vanuatu,307150.0
-Tropical,Vietnam,97338583.0
-Tropical,Zambia,18383956.0
-Tropical,Zimbabwe,14862927.0
+Country Region,2020 [YR2020]
+Afghanistan,38928341.0
+Albania,2837849.0
+Algeria,43851043.0
+Andorra,77265.0
+Angola,32866268.0
+Antigua and Barbuda,97928.0
+Argentina,45376763.0
+Armenia,2963234.0
+Australia,25693267.0
+Austria,8916864.0
+Azerbaijan,10093121.0
+Bahrain,1701583.0
+Bangladesh,164689383.0
+Barbados,287371.0
+Belarus,9379952.0
+Belgium,11544241.0
+Belize,397621.0
+Benin,12123198.0
+Bhutan,771612.0
+Bolivia,11673029.0
+Bosnia and Herzegovina,3280815.0
+Botswana,2351625.0
+Brazil,212559409.0
+Bulgaria,6934015.0
+Burkina Faso,20903278.0
+Burundi,11890781.0
+Cabo Verde,555988.0
+Cambodia,16718971.0
+Cameroon,26545864.0
+Canada,38037204.0
+Central African Republic,4829764.0
+Chad,16425859.0
+Chile,19116209.0
+China,1411100000.0
+Colombia,50882884.0
+Comoros,869595.0
+Costa Rica,5094114.0
+Cote d'Ivoire,26378275.0
+Croatia,4047680.0
+Cuba,11326616.0
+Cyprus,1207361.0
+Denmark,5831404.0
+Djibouti,988002.0
+Dominica,71991.0
+Dominican Republic,10847904.0
+Ecuador,17643060.0
+El Salvador,6486201.0
+Equatorial Guinea,1402985.0
+Estonia,1329479.0
+Eswatini,1160164.0
+Ethiopia,114963583.0
+Fiji,896444.0
+Finland,5529543.0
+France,67379908.0
+Gabon,2225728.0
+Georgia,3722716.0
+Germany,83160871.0
+Ghana,31072945.0
+Greece,10700556.0
+Grenada,112519.0
+Guatemala,16858333.0
+Guinea,13132792.0
+Guinea-Bissau,1967998.0
+Guyana,786559.0
+Haiti,11402533.0
+Honduras,9904608.0
+Hungary,9750149.0
+Iceland,366463.0
+India,1380004385.0
+Indonesia,273523621.0
+Iraq,40222503.0
+Ireland,4985674.0
+Israel,9215100.0
+Italy,59449527.0
+Jamaica,2961161.0
+Japan,126261000.0
+Jordan,10203140.0
+Kazakhstan,18755666.0
+Kenya,53771300.0
+Kiribati,119446.0
+Kosovo,1790133.0
+Kuwait,4270563.0
+Latvia,1900449.0
+Lebanon,6825442.0
+Lesotho,2142252.0
+Liberia,5057677.0
+Libya,6871287.0
+Liechtenstein,38137.0
+Lithuania,2794885.0
+Luxembourg,630419.0
+Madagascar,27691019.0
+Malawi,19129955.0
+Malaysia,32365998.0
+Maldives,540542.0
+Mali,20250834.0
+Malta,515332.0
+Marshall Islands,59194.0
+Mauritania,4649660.0
+Mauritius,1265740.0
+Mexico,128932753.0
+Moldova,2620495.0
+Monaco,39244.0
+Mongolia,3278292.0
+Montenegro,621306.0
+Morocco,36910558.0
+Mozambique,31255435.0
+Namibia,2540916.0
+Nepal,29136808.0
+Netherlands,17441500.0
+New Zealand,5090200.0
+Nicaragua,6624554.0
+Niger,24206636.0
+Nigeria,206139587.0
+North Macedonia,2072531.0
+Norway,5379475.0
+Oman,5106622.0
+Pakistan,220892331.0
+Palau,18092.0
+Panama,4314768.0
+Papua New Guinea,8947027.0
+Paraguay,7132530.0
+Peru,32971846.0
+Philippines,109581085.0
+Poland,37899070.0
+Portugal,10297081.0
+Qatar,2881060.0
+Romania,19257520.0
+Rwanda,12952209.0
+Samoa,198410.0
+San Marino,33938.0
+Sao Tome and Principe,219161.0
+Saudi Arabia,34813867.0
+Senegal,16743930.0
+Serbia,6899126.0
+Seychelles,98462.0
+Sierra Leone,7976985.0
+Singapore,5685807.0
+Slovenia,2102419.0
+Solomon Islands,686878.0
+Somalia,15893219.0
+South Africa,59308690.0
+South Sudan,11193729.0
+Spain,47363419.0
+Sri Lanka,21919000.0
+Sudan,43849269.0
+Suriname,586634.0
+Sweden,10353442.0
+Switzerland,8636561.0
+Tajikistan,9537642.0
+Tanzania,59734213.0
+Thailand,69799978.0
+Timor-Leste,1318442.0
+Togo,8278737.0
+Trinidad and Tobago,1399491.0
+Tunisia,11818618.0
+Uganda,45741000.0
+Ukraine,44132049.0
+United Arab Emirates,9890400.0
+United Kingdom,67081000.0
+Uruguay,3473727.0
+Uzbekistan,34232050.0
+Vanuatu,307150.0
+Vietnam,97338583.0
+West Bank and Gaza,4803269.0
+Zambia,18383956.0
+Zimbabwe,14862927.0
