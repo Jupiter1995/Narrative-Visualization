@@ -25,10 +25,10 @@ var data2020 = [
  ];
  
  // set the dimensions and margins of the graph
- var margin = {top: 150, right: 150, bottom: 70, left: 200
+ var margin = {top: 30, right: 150, bottom: 70, left: 200
  },
      width = 800 - margin.left - margin.right,
-     height = 750 - margin.top - margin.bottom;
+     height = 630 - margin.top - margin.bottom;
  
  // append the svg object to the body of the page
  var svg = d3.select("#covidviz")
