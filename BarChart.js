@@ -25,10 +25,10 @@ var data2020 = [
  ];
  
  // set the dimensions and margins of the graph
- var margin = {top: 10, right: 150, bottom: 70, left: 200
+ var margin = {top: 30, right: 150, bottom: 70, left: 200
  },
      width = 800 - margin.left - margin.right,
-     height = 630 - margin.top - margin.bottom;
+     height = 580 - margin.top - margin.bottom;
  
  // append the svg object to the body of the page
  var svg = d3.select("#covidviz")
@@ -114,7 +114,7 @@ const annotations = [
    {
      note: { label: "Country with Lowest Infection Rate" },
      x: 400,
-     y: 525,
+     y: 475,
      dy: -80,
      dx: 60,
      subject: { radius: 30, radiusPadding: 5 },
