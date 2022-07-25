@@ -25,7 +25,7 @@ var data2020 = [
  ];
  
  // set the dimensions and margins of the graph
- var margin = {top: 20, right: 150, bottom: 70, left: 200
+ var margin = {top: 10, right: 150, bottom: 70, left: 200
  },
      width = 800 - margin.left - margin.right,
      height = 630 - margin.top - margin.bottom;
