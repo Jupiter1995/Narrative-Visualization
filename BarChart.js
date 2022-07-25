@@ -108,37 +108,6 @@ var data2020 = [
      .attr("text-anchor", "bottom")
      .style("alignment-baseline", "right");
 
-// Annotation
-// const type = d3.annotationCalloutCircle;
-
-// const annotations = [
-//    {
-//      note: { label: "Country with Lowest Infection Rate" },
-//      x: 400,
-//      y: 475,
-//      dy: -80,
-//      dx: 60,
-//      subject: { radius: 30, radiusPadding: 5 },
-//    },
-//  ];
-//  const makeAnnotations = d3.annotation()
-//  .type(type)
-//    .annotations(annotations);
-
-// const annotations2 = [
-// {
-//     note: { label: "Highest Infected rate highlighted with red" },
-//     x: 130,
-//     y: -4,
-//     dy: -50,
-//     dx: 60,
-//     subject: { radius: 30, radiusPadding: 5 },
-// },
-// ];
-// const makeAnnotations2 = d3.annotation()
-// .type(type)
-// .annotations(annotations2);
-
 // Annotation with arrow
 const type2 = d3.annotationCustomType(
   d3.annotationCallout, 
