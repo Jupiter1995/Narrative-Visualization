@@ -25,10 +25,10 @@ var data2020 = [
  ];
  
  // set the dimensions and margins of the graph
- var margin = {top: 30, right: 150, bottom: 70, left: 200
+ var margin = {top: 50, right: 150, bottom: 70, left: 200
  },
      width = 800 - margin.left - margin.right,
-     height = 580 - margin.top - margin.bottom;
+     height = 600 - margin.top - margin.bottom;
  
  // append the svg object to the body of the page
  var svg = d3.select("#covidviz")
@@ -60,15 +60,16 @@ var data2020 = [
  svg.append('text')
      .attr('class', 'x label')
      .attr("text-anchor", "end")
-     .attr("x", width)
+     .attr("x", width + 40)
      .attr("y", height + 50)
      .text("Five permanent members of The Security Council in the United Nations");
 
  svg.append('text')
      .attr('class', 'y label')
      .attr("text-anchor", "end")
+     .attr('x', -50)
      .attr("y", -70)
-     .attr("dy", ".em")
+     .attr("dy", ".10em")
      .attr("transform", "rotate(-90)")
      .text("Avg. Confirmed COVID Cases per Population");
 
@@ -138,6 +139,50 @@ const makeAnnotations2 = d3.annotation()
 .type(type)
 .annotations(annotations2);
 
+// Annotation with arrow
+const type2 = d3.annotationCustomType(
+  d3.annotationCallout, 
+  {"className":"custom",
+    "connector":{"end":"arrow"},
+    "note":{"lineType":"horizontal"}});
+
+const annotations_lowest = [{
+  note: {
+    label: "Lowest Infection Rate All Time",
+    bgPadding: {"top":475,"left":400,"right":10,"bottom":10},
+    title: "China"
+  },
+  //can use x, y directly instead of data
+  color: ['steelblue'],
+  x: 400,
+  y: 475,
+  dy: -80,
+  dx: 30
+}];
+
+const annotations_highest= [{
+  note: {
+    label: "Highest Infection Rate except 2022",
+    bgPadding: {"top":80,"left":80,"right":10,"bottom":100},
+    title: "US"
+  },
+  //can use x, y directly instead of data
+  color: ['steelblue'],
+  x: 55,
+  y: 470,
+  dy: -250,
+  dx: 30
+}];
+
+const makeAnnotations_lowest = d3.annotation()
+.type(type2)
+.annotations(annotations_lowest);
+
+const makeAnnotations_highest = d3.annotation()
+.type(type2)
+.annotations(annotations_highest);
+
+
  // A function that create / update the plot for a given variable:
  function update(data) {
  
@@ -165,11 +210,15 @@ const makeAnnotations2 = d3.annotation()
   
   // Add annotation to the chart
 
-  svg
-    .append("g")
-    .call(makeAnnotations);
+  // svg
+  //   .append("g")
+  //   .call(makeAnnotations);
   
-// svg
-// .append("g")
-// .call(makeAnnotations2);
+svg
+.append("g")
+.call(makeAnnotations_lowest);
+
+svg
+.append("g")
+.call(makeAnnotations_highest);
   
