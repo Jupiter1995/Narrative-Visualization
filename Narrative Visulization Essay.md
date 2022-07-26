@@ -16,11 +16,11 @@ A bar plot was used for each scene as the main visual structure and supported by
 In addition, different rates were assigned to a different color, which helps viewer stay connected between different scenes. Furthermore, the changes in the bar heights from year to year for the same country were smoothed, so the viewers could see how the data changed from scene to scene or year to year.
 
 ## Scenes and Visual Ordering. 
-**What are the scenes of your narrative visualization?  How are the scenes ordered, and why**<br><br>
+**What are the scenes of your narrative visualization?  How are the scenes ordered, and why?**<br><br>
 The scenes in the narrative visualization are the bar charts under different years. Each year will be treated as one scene.<br> The scenes were ordered based on the time, and the first scene was in 2020. The buttons were ordered based on time to reflect the order of the scene. In time order, viewers could have a better idea about the changes in time, and it's also easier for them to find the trends. This visualization was designed to be interactive, so viewers could choose to skip a particular year or start from 2022 and move to 2020. Viewers have the flexibility to choose which order they want to follow or use their own when exploring the scenes.
 
 ## Annotations. 
-**What template was followed for the annotations, and why that template? How are the annotations used to support the messaging? Do the annotations change within a single scene, and if so, how and why**<br><br>
+**What template was followed for the annotations, and why that template? How are the annotations used to support the messaging? Do the annotations change within a single scene, and if so, how and why?**<br><br>
 A modified annotation template from d3-annotation was used for this narrative visualization. The base of the annotation used is d3-annotationCallout and was customed the size, end connector, and so on. This annotation template could provide clear guidance for the viewers to see what is pointed out without sacrificing the chart quality.<br>
 Annotations keep the same in the single scene and across the different scenes. With the annotations, viewers will be quickly guided to focus on the countries with the highest and lowest infection rates, which helps them conclude the effects of different policies.
 
