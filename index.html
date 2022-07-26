@@ -6,23 +6,47 @@
     </title>
     <head>
         <h1>
-            COVID in Five Permanent Members Of The Security Conuncil in UN
+            COVID-19 Infection Rate of Five Permanent Members in The Security Conuncil of UN
         </h1>
+
+        <h3>
+            Background
+        </h3>
+        <p>
+            On March 11, 2020, the World Health Organization (WHO) declared COVID-19, 
+            the disease caused by the SARS-CoV-2, a pandemic. The announcement followed a rising sense of alarm in the preceding months over a new, 
+            potentially lethal virus that was swiftly spreading around the world. </br></br>
+            Two year later, we look back on one of the most challenging periods in recent memory. During this challenging periods, many countries have
+            to made hard decision between health and economic. Here, we will look back and focus on the fection rate solely among five most powerful countries
+            in the world, which are the permanent members in The Security Conuncil of UN - <strong>US, UK, France, Russia and China</strong>. </br> 
+        </p>
+
+        <h3>
+            Introduction 
+        </h3>
+        <p>
+            As well known, China chooses the most restricted policy in order to control. While US, UK and France were back and forth with their policies. 
+            This leads to a huge difference in infection rate. <br>
+            In the interative chart below, you could see that the country with the <strong>highest infection rate</strong> is highlighted in <strong>red</strong>. US was the country with 
+            the highest infection rate until 2022. China barely had some infections. You could play around with the <strong>years</strong> and observe the different 
+            change trends in difference countries, and then rethink about the policies in those countries. 
+        </p>
     </head>
 <script src='https://d3js.org/d3.v4.min.js'></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-annotation/2.5.1/d3-annotation.min.js"></script>
 
 <!-- Add 2 buttons -->
 Please click to choose a year and see the changes in different countries:
-<button onclick="update(data2020)">2020</button>
+<button onclick="update(2020)">2020</button>
 <!-- <button onclick="change(data2020)">Log Transform 2020</button> -->
 
-<button onclick="update(data2021)">2021</button>
+<button onclick="update(2021)">2021</button>
 <!-- <button onclick="change(data2021)">Log Transform 2021</button> -->
 
-<button onclick="update(data2022)">2022</button>
+<button onclick="update(2022)">2022</button>
 <!-- <button onclick="change(data2020)">Log Transform 2022</button> -->
 
+<!-- <input type="range" name="mySlider" id=mySlider min="2020" max="2022" value="10"> -->
 
 <style> circle {fill: lightblue; stroke: black;} </style>
 

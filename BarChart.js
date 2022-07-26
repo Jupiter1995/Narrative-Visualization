@@ -38,7 +38,7 @@ var data2020 = [
              .append("g")
              .attr("transform",
                      "translate(" + margin.left + "," + margin.top + ")");
- 
+  // svg.append('g').slider().axis(true).min(2020).max(2022).step(5);
  // X axis
  var x = d3.scaleBand()
    .range([ 0, width ])
@@ -71,7 +71,7 @@ var data2020 = [
      .attr("y", -70)
      .attr("dy", ".10em")
      .attr("transform", "rotate(-90)")
-     .text("Avg. Confirmed COVID Cases per Population");
+     .text("Infection Rate (Confirmed COVID-19 Cases per Population)");
 
  // adding legend to the chart
  var keys = [
@@ -154,9 +154,16 @@ const makeAnnotations_highest = d3.annotation()
 
  // A function that create / update the plot for a given variable:
  function update(data) {
+    if(data == 2020){
+      input_data = data2020;
+    } else if (data == 2021) {
+      input_data = data2021;
+    } else {
+      input_data = data2022;
+    }
  
    var u = svg.selectAll("rect")
-     .data(data)
+     .data(input_data)
  
    u
      .enter()
@@ -169,12 +176,16 @@ const makeAnnotations_highest = d3.annotation()
        .attr("y", function(d) { return y(d.value); })
        .attr("width", x.bandwidth())
        .attr("height", function(d) { return height - y(d.value); })
-       .attr("fill", "#69b3a2")
     
  };
+
+//  d3.select("#mySlider").on("change", function(d){
+//   selectData = this.value;
+//   update(selectData);
+// })
  
  // Initialize the plot with the first dataset
- update(data2020);
+ update(2020);
 
   
   // Add annotation to the chart
