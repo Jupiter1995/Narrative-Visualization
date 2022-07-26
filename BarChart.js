@@ -154,16 +154,16 @@ const makeAnnotations_highest = d3.annotation()
 
  // A function that create / update the plot for a given variable:
  function update(data) {
-    if(data == 2020){
-      input_data = data2020;
-    } else if (data == 2021) {
-      input_data = data2021;
-    } else {
-      input_data = data2022;
-    }
+    // if(data == 2020){
+    //   input_data = data2020;
+    // } else if (data == 2021) {
+    //   input_data = data2021;
+    // } else {
+    //   input_data = data2022;
+    // }
  
    var u = svg.selectAll("rect")
-     .data(input_data)
+     .data(data)
  
    u
      .enter()
@@ -185,7 +185,7 @@ const makeAnnotations_highest = d3.annotation()
 // })
  
  // Initialize the plot with the first dataset
- update(2020);
+ update(data2020);
 
   
   // Add annotation to the chart
